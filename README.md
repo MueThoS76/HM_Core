@@ -1,4 +1,4 @@
 # HM_Core
 
 
-   ![picture](https://github.com/MueThoS76/HM_Core/HM_Core.png)   
+   ![picture](https://raw.githubusercontent.com/MueThoS76/HM_Core/master/HM_Core.png)
